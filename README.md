@@ -1,6 +1,6 @@
 ## Demo Preview
 
-Online view：[link](https://4ark.me/star-battle)
+Online view：https://gkw0rld.github.io/Space-invader/
 
 ## Game Rules
 
